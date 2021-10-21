@@ -1,3 +1,3 @@
 frontend/package-lock.json
 frontend/src/PeopleCreateUpdate.js
-db.sqlite3
+backend/db.sqlite3
